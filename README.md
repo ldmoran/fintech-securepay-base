@@ -67,6 +67,11 @@ El contenedor `src/config/container.js` instancia y ensambla todas las dependenc
 #### Captura Sentry — Error operacional 500 con Tag de usuario
 
 <img width="1531" height="346" alt="image" src="https://github.com/user-attachments/assets/c00f230a-04d2-4908-91af-bcaa14c6b75b" />
+<img width="1488" height="961" alt="image" src="https://github.com/user-attachments/assets/52872b80-82d7-4675-8d66-874529cffab9" />
+<img width="1283" height="744" alt="image" src="https://github.com/user-attachments/assets/e1460c80-b8dd-4eef-a125-7c714f46723e" />
+<img width="1283" height="979" alt="image" src="https://github.com/user-attachments/assets/716c0896-3846-4968-9bd0-0ad705091305" />
+<img width="1343" height="915" alt="image" src="https://github.com/user-attachments/assets/bfce1532-9e65-44fc-ad8a-4446985c3bae" />
+
 
 #### Captura Error Postman
 
