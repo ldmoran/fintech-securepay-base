@@ -1,8 +1,8 @@
 # Fintech SecurePay — Evaluación Parcial Práctica
 **Universidad de las Fuerzas Armadas ESPE**  
 Departamento de Ciencias de la Computación | Ingeniería de Software  
-Arquitecturas Distribuidas — 2026
-
+Arquitecturas Distribuidas NRC:30732 — 2026
+Nombre: David Moran
 ---
 
 ## Bitácora de Evaluación
@@ -59,15 +59,17 @@ El contenedor `src/config/container.js` instancia y ensambla todas las dependenc
 
 | Tipo de error | HTTP | ¿Reporta a Sentry? |
 |---|---|---|
-| Token expirado / malformado (lógico) | 401 | ❌ NO |
-| Caída de conexión al clúster (operacional) | 500 | ✅ SÍ, con Tag `affected_user_id` |
+| Token expirado / malformado (lógico) | 401 |  NO |
+| Caída de conexión al clúster (operacional) | 500 |  SÍ, con Tag `affected_user_id` |
 
 `src/instrument.js` es importado como primera línea de `index.js` antes de Express.
 
 #### Captura Sentry — Error operacional 500 con Tag de usuario
 
 <img width="1531" height="346" alt="image" src="https://github.com/user-attachments/assets/c00f230a-04d2-4908-91af-bcaa14c6b75b" />
+
 #### Captura Error Postman
+
 <img width="1445" height="781" alt="image" src="https://github.com/user-attachments/assets/594ebb9e-8fa8-42cf-8328-aa74326619ba" />
 
 ---
