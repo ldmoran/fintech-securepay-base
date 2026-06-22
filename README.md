@@ -36,15 +36,17 @@ El contenedor `src/config/container.js` instancia y ensambla todas las dependenc
 
 #### Captura Postman — Token generado (POST /v1/auth/login)
 
-> 📸 _Agregar captura aquí_
+<img width="1443" height="944" alt="image" src="https://github.com/user-attachments/assets/1a042bbd-e4fa-4742-91d4-a6623d92c035" />
+
 
 #### Captura Postman — Acceso válido con token (GET /v1/account-alpha/balance)
 
-> 📸 _Agregar captura aquí_
+<img width="1462" height="730" alt="image" src="https://github.com/user-attachments/assets/c86604f5-3d37-43b0-9ff8-4d01fe59ac83" />
+
 
 #### Captura Postman — Token expirado (401)
 
-> 📸 _Agregar captura aquí_
+<img width="1456" height="786" alt="image" src="https://github.com/user-attachments/assets/9b2e8709-bc6e-431a-9603-a38657b08e5b" />
 
 ---
 
@@ -64,7 +66,9 @@ El contenedor `src/config/container.js` instancia y ensambla todas las dependenc
 
 #### Captura Sentry — Error operacional 500 con Tag de usuario
 
-> 📸 _Agregar captura aquí_
+<img width="1531" height="346" alt="image" src="https://github.com/user-attachments/assets/c00f230a-04d2-4908-91af-bcaa14c6b75b" />
+#### Captura Error Postman
+<img width="1445" height="781" alt="image" src="https://github.com/user-attachments/assets/594ebb9e-8fa8-42cf-8328-aa74326619ba" />
 
 ---
 
